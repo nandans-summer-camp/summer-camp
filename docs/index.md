@@ -6,7 +6,7 @@ It consists of several modules. Each module consists of various lectures and ass
 
 All the assignments are created in separate repositories such that they can be used as templates for Github Classroom assignments. If you are teaching a class and want to use the material, you can directly create assignments from the public repositories and assign them to students, allowing for an easy way to give feedback.
 
-Enjoy!
+Enjoy! And let me know if there are any bugs :)
 
 
 ## Module 1: Hello World
@@ -26,3 +26,9 @@ Enjoy!
 [Learning R](./r). ~20 hours.
 
 ## Module 5: Data Warehousing
+
+[Data Warehousing](./data-warehousing). ~80 hours.
+
+## Module 6: Getting Data From the Internet
+
+[Getting Data From the Internet](./getting-data). ~10 hours.

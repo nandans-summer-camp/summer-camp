@@ -26,3 +26,9 @@ Enjoy!
 [Learning R](./r). ~20 hours.
 
 ## Module 5: Data Warehousing
+
+[Data Warehousing](./data-warehousing). ~80 hours.
+
+## Module 6: Getting Data From the Internet
+
+[Getting Data From the Internet](./getting-data). ~10 hours.
