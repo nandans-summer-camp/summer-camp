@@ -1,15 +1,28 @@
-# Summer Schedule - Computing
+# Nandan's Summer Camp
 
-Welcome to the MSc. Data Science program 2020! 
+This is a collection of material I've created over the years to teach Python, Pandas, and basic Data Warehousing.
 
-The first term of your masters program will be very intense, you will learn a lot in a short amount of time. In order to make sure you take full advantage of that term, it's imperative that you arrive with a basic level of comfort in programming and computing. 
+It consists of several modules. Each module consists of various lectures and assignments. The lectures are recorded in videos and the assignments consist sometimes of python files and tests, other times of Jupyter notebooks, other times as instructions that you need to complete. 
 
-Towards that end, we have prepared a schedule and material to complete during the summer before the program begins:
+All the assignments are created in separate repositories such that they can be used as templates for Github Classroom assignments. If you are teaching a class and want to use the material, you can directly create assignments from the public repositories and assign them to students, allowing for an easy way to give feedback.
 
-1. **Jul 1 - Jul 15** Complete the preporatory [Hello World Mini-Assignment](./helloworld). ~8 hours.
-2. **Jul 22 - Sep 14** Complete the [Github Classroom Exercises](./classroom). ~40 hours.
-3. **Sep 1 - Sep 14** Complete DataCamp assignments. ~15 hours.
+Enjoy!
 
-You will be invited to the DataCamp platform in late August. The classes will cover basic R and SQL.
 
-If you have any questions, write Nandan.
+## Module 1: Hello World
+
+[Hello World Mini-Assignment](./helloworld). ~8 hours.
+
+## Module 2: Learning Python
+
+[Learning Python](./python). ~40 hours.
+
+## Module 3: Pandas
+
+[Pandas](./pandas). ~20 hours.
+
+## Module 4: Learning R
+
+[Learning R](./r). ~20 hours.
+
+## Module 5: Data Warehousing
