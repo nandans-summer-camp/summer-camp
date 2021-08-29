@@ -73,5 +73,5 @@ We're going to practice using Spark! There is a repository with some tutorials a
 
 {% include youtube.html id="T1BsrowQQgA" %}
 
-(NOTE: The sketchboard PDFs from the lectures can be found in the Github directory: https://github.com/nandans-summer-camp/sketchboard)
+NOTE: The sketchboard PDFs from the lectures can be found in the Github directory: [github.com/nandans-summer-camp/sketchboard](https://github.com/nandans-summer-camp/sketchboard)
 
